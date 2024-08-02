@@ -23,10 +23,11 @@
 
 body {
     font-family: 'Neulis-Medium', sans-serif;
-    background: url('/imgs/Website-Background-1.jpg');
+    /* background: url('/imgs/Website-Background-1.jpg'); */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     color: var(--pV1);
+    background-color: red;
 }
