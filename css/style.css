@@ -4,6 +4,7 @@
     --pV1: #2922FF;
     --pV2: #260071;
     --white: #F5F5F6;
+    --bs-primary-rgb: 41,34,255 !important;
 }
 
 @font-face {
@@ -22,7 +23,7 @@
 }
 
 body {
-    font-family: 'Neulis-Medium', sans-serif;
+    font-family: 'Neulis-Medium', sans-serif !important;
     background: url('../imgs/Website-Background-1.jpg');
     background-size: cover;
     background-position: center;
