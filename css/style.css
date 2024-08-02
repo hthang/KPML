@@ -8,22 +8,22 @@
 
 @font-face {
     font-family: 'Neulis-Regular';
-    src: url('./fonts/Neulis-Regular.otf');
+    src: url('../fonts/Neulis-Regular.otf');
 }
 
 @font-face {
     font-family: 'Neulis-Medium';
-    src: url('./fonts/Neulis-Medium.otf');
+    src: url('../fonts/Neulis-Medium.otf');
 }
 
 @font-face {
     font-family: 'Neulis-Bold';
-    src: url('./fonts/Neulis-Bold.otf');
+    src: url('../fonts/Neulis-Bold.otf');
 }
 
 body {
     font-family: 'Neulis-Medium', sans-serif;
-    background: url('./imgs/Website-Background-1.jpg');
+    background: url('../imgs/Website-Background-1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
